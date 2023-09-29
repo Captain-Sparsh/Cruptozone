@@ -1,1 +1,1 @@
-# Cruptozone
+# CryptoZone
